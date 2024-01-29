@@ -1,0 +1,8 @@
+// link_with_pico_sdk.c
+extern void zig_main(); 
+
+int main()
+{
+    zig_main();
+    return 0;
+}

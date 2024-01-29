@@ -1,0 +1,2 @@
+#include "C:\Program Files\Raspberry Pi\Pico SDK v1.5.1\pico-sdk/src/boards/include/boards/pico.h"
+#include "C:\Program Files\Raspberry Pi\Pico SDK v1.5.1\pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h"
